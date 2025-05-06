@@ -1,5 +1,3 @@
-package task3;
-
 import java.io.*;
 import java.util.*;
 import com.google.gson.*;
